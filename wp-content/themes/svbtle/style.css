@@ -755,6 +755,12 @@ article.post {
     border-top: 1px solid #e2e2e2;
     min-height: 130px;
     overflow-x: hidden
+    border-radius:2px;
+    background:#fff;
+    margin-bottom:7.5px;
+    font-size:15px;
+    line-height:1.5em;
+    color:#546673
 }
 article h1,
 article h2,
